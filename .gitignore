@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.exe
+student_management
+
+# Data files
+students.dat
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
